@@ -7,11 +7,9 @@ It combines a sleek dark UI with powerful editing features and a lightweight AI 
 
 # ✨ Features
 
-# 🧩 Tab-Based Editing
-Multiple tabs like modern editors (VS Code style)
-Work on multiple files simultaneously
 
-#💾 File Management
+
+# 💾 File Management
 New / Open / Save / Save As
 UTF-8 file support
 Smart status updates
